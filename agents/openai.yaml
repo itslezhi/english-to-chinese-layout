@@ -1,0 +1,4 @@
+interface:
+  display_name: "英文文档中文翻译与原版式保留"
+  short_description: "将英文文档准确译为中文，保留原文件类型、图表、分页与排版，并逐页核验"
+  default_prompt: "使用 $english-to-chinese-layout 将这份英文文档完整翻译为简体中文，保留原文件类型、图表、分页与排版，并核验翻译和版式。"
